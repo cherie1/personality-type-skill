@@ -1,0 +1,24 @@
+EnterType: ListofTypes
+
+
+Enter Values: 
+i. n. t. j.
+i. n. t. p.
+i. n. f. j.
+i. n. f. p.
+i. s. t. p.
+i. s. f. j.
+i. s. f. p.
+i. s. t. j.
+e. s. t. j.
+e. s. f. p.
+e. s. t. p.
+e. s. f. j.
+e. n. f. j.
+e. n. f. p.
+e. n. t. j.
+e. n. t. p.
+steadiness
+influence
+conscientiousness
+dominance
