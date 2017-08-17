@@ -1,17 +1,30 @@
-About About
-About Information
-About General Information
-About General Info
-About Details
-Contact Contact
-Contact Contact Us
-Contact Location
-Contact Address
-Contact Phone Number
-Contact Web Address
-Contact Email Address
-Upcoming Upcoming
-Upcoming Upcoming Events
-Upcoming Specials
-Upcoming Coming Up
-Upcoming What next
+TypeDescription {TypeName}
+TypeDescription the {TypeName}
+TypeDescription about {TypeName}
+TypeDescription an {TypeName}
+TypeDescription about the {TypeName}
+TypeDescription for a description of {TypeName}
+TypeDescription for a description of an {TypeName}
+TypeDescription for a description of the {TypeName}
+TypeDescription to describe an {TypeName}
+TypeDescription to describe {TypeName}
+TypeDescription what an {TypeName} is
+TypeDescription to describe the {TypeName}
+Skip skip
+Skip don't know
+A a
+A um a
+A uh a
+A oh a
+A hm a
+A definitely a
+B b
+B um b
+B oh b
+B uh b
+B hm b
+B definitely b
+StartQuiz start quiz
+StartQuiz quiz
+Fact fun fact
+Fact fun facts
