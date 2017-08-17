@@ -1,16 +1,37 @@
 {
   "intents": [
     {
+      "slots": [
+        {
+          "name": "TypeName",
+          "type": "ListOfTypes"
+        }
+      ],
+      "intent": "TypeDescription"
+    },
+    {
       "intent": "AMAZON.HelpIntent"
     },
     {
-      "intent": "About"
+      "intent": "AMAZON.StopIntent"
     },
     {
-      "intent": "Contact"
+      "intent": "AMAZON.CancelIntent"
     },
     {
-      "intent": "Upcoming"
+      "intent": "Skip"
+    },
+    {
+      "intent": "A"
+    },
+    {
+      "intent": "B"
+    },
+    {
+      "intent": "StartQuiz"
+    },
+    {
+      "intent": "Fact"
     }
   ]
 }
